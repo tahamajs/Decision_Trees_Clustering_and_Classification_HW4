@@ -72,49 +72,6 @@ The homework consists of  **five main questions** , covering both theoretical an
 
 ---
 
-## **Implementation Details**
-
-### **📂 Folder Structure**
-
-```
-ML_HW4/
-│── data/                     # Dataset files
-│── models/                   # Trained models
-│── notebooks/                # Jupyter notebooks
-│── src/                      # Python scripts
-│   ├── decision_tree.py      # Decision Tree implementation
-│   ├── clustering.py         # DBSCAN, OPTICS, K-Means
-│   ├── preprocessing.py      # Data preprocessing functions
-│── results/                  # Visualizations and reports
-│── requirements.txt          # Dependencies
-│── README.md                 # This README file
-```
-
----
-
-## **How to Run the Code**
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/your-repository/ml_hw4.git
-   cd ml_hw4
-   ```
-2. **Install dependencies**
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. **Run Decision Tree for Spam Classification**
-   ```bash
-   python src/decision_tree.py
-   ```
-4. **Run Clustering Algorithms**
-   ```bash
-   python src/clustering.py
-   ```
-5. **Open Jupyter Notebook for Analysis**
-   ```bash
-   jupyter notebook
-   ```
 
 ---
 
