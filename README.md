@@ -2,17 +2,12 @@
 
 # **Machine Learning Homework 4**
 
-## **Decision Trees, Clustering, and Classification**
-
-### **Course:** Machine Learning
-
-### **University:** University of Tehran
-
-### **Department:** Electrical and Computer Engineering
-
-### **Professor:** [Insert Professor’s Name]
-
-### **Semester:** Fall 1403
+**Decision Trees, Clustering, and Classification**
+**Course:** Machine Learning
+**University:** University of Tehran
+ **Department:** Electrical and Computer Engineering
+ **Professor:** [Dr Arabi]
+ **Semester:** Fall 1403
 
 ---
 
